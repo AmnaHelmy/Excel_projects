@@ -2,6 +2,10 @@
 
 This project explores employee attrition, overtime, salary, job roles, age, tenure, satisfaction, and departmental performance.
 
+![HR Dashboard 1](HR%20dashboard%201.jpg)
+![HR Dashboard 2](HR%20dashboard%202.jpg)
+![HR Dashboard 3](HR%20dashboard%203.jpg)
+
 ## 🔹 Project Steps
 1.	Data Preparation – Cleaned and organized the HR employee dataset.
 2.	Power Query – Used Power Query for data transformation and preparation.
