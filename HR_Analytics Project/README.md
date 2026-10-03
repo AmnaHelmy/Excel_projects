@@ -2,9 +2,9 @@
 
 This project explores employee attrition, overtime, salary, job roles, age, tenure, satisfaction, and departmental performance.
 
-![HR Dashboard 1](HR%20dashboard%201.jpg)
-![HR Dashboard 2](HR%20dashboard%202.jpg)
-![HR Dashboard 3](HR%20dashboard%203.jpg)
+![HR Dashboard 1](./HR_dashboard_1.jpg)
+![HR Dashboard 2](./HR_dashboard_2.jpg)
+![HR Dashboard 3](./HR_dashboard_3.jpg)
 
 ## 🔹 Project Steps
 1.	Data Preparation – Cleaned and organized the HR employee dataset.
