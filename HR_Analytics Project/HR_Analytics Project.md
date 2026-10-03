@@ -1,8 +1,8 @@
-📊 HR Analytics Dashboard | Microsoft Excel
+# 📊 HR Analytics Dashboard | Microsoft Excel
 
 This project explores employee attrition, overtime, salary, job roles, age, tenure, satisfaction, and departmental performance.
 
-🔹 Project Steps
+## 🔹 Project Steps
 1.	Data Preparation – Cleaned and organized the HR employee dataset.
 2.	Power Query – Used Power Query for data transformation and preparation.
 3.	Data Model & Power Pivot – Built relationships and created measures such as:
@@ -20,7 +20,7 @@ This project explores employee attrition, overtime, salary, job roles, age, tenu
   o	Employees by Age Group, Gender & Job Level
 5.	Dashboard Design – Combined KPIs, charts, slicers, and navigation elements into an interactive 3-page HR dashboard.
 
-📌 Key Insights
+## 📌 Key Insights
 - Overall attrition is 16%, with 238 employees leaving out of 1,480.
 - Overtime employees have a 31% attrition rate versus only 10% for non-overtime employees, making overtime a major retention risk.
 - Sales has the highest departmental attrition at 21% and also the highest overtime rate at 29%.
@@ -32,7 +32,8 @@ This project explores employee attrition, overtime, salary, job roles, age, tenu
 - Department satisfaction and performance differences are relatively small, suggesting they alone do not explain the large differences in attrition.
 - Job level strongly corresponds with income, with average monthly income increasing from 2,789 at Level 1 to 19,192 at Level 5.
 
-📌 Overall business conclusion
+## 📌 Overall business conclusion
 The dashboard suggests that employee attrition is concentrated among younger, newer and overtime-working employees, with Sales, and particularly Sales Representatives, representing the most critical retention risk. The strongest opportunities for HR intervention are early-tenure retention, overtime/workload management, and targeted retention strategies for high-attrition Sales roles.
 
-🙏 Credits: Special thanks to Mostafa Hamed for the project inspiration and for making this learning opportunity possible. The analysis, dashboard design, and presentation were developed as part of my own learning and practice.
+## 🙏 Credits: 
+Special thanks to Mostafa Hamed for the project inspiration and for making this learning opportunity possible. The analysis, dashboard design, and presentation were developed as part of my own learning and practice.
