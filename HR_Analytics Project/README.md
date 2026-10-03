@@ -3,7 +3,9 @@
 This project explores employee attrition, overtime, salary, job roles, age, tenure, satisfaction, and departmental performance.
 
 ![HR Dashboard 1](./HR_dashboard_1.jpg)
+
 ![HR Dashboard 2](./HR_dashboard_2.jpg)
+
 ![HR Dashboard 3](./HR_dashboard_3.jpg)
 
 ## 🔹 Project Steps
